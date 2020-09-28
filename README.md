@@ -3,7 +3,7 @@
 
 I've been at IBM since September 2018 as a software developer, after graduating with a master's in physics from Durham University.
 
-From the 12th October I will be joining Thought Machine as a backend engineer, working on their cloud-native core banking platform.
+From the 12th October I will be joining [Thought Machine](https://thoughtmachine.net/) as a backend engineer, working on their cloud-native core banking platform.
 
 ### Skills 🧰
 
