@@ -1,9 +1,9 @@
 
 ### About Me 😄
 
-I've been at IBM since September 2018 as a software developer, after graduating with a master's in physics from Durham University.
+Backend Engineer at [Thought Machine](https://thoughtmachine.net/), working on their cloud-native core banking platform.
 
-From the 12th October I will be joining [Thought Machine](https://thoughtmachine.net/) as a backend engineer, working on their cloud-native core banking platform.
+I previously worked for IBM Cloud for 2 years, after graduating with a master's degree in physics from Durham University.
 
 ### Skills 🧰
 
