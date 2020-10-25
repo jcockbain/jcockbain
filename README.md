@@ -3,7 +3,7 @@
 
 Backend Engineer at [Thought Machine](https://thoughtmachine.net/), working on their cloud-native core banking platform.
 
-I previously worked for IBM Cloud for 2 years, after graduating with a master's degree in physics from Durham University.
+I previously worked for IBM Cloud, after graduating with a master's degree in physics from Durham University.
 
 ### Skills 🧰
 
