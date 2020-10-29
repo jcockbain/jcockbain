@@ -11,7 +11,7 @@ I am most experienced with JavaScript, Python and Go as languages.
 
 I've experience in front-end development, with React as my main framework.
 
-I currently work lots of Kubernetes, Docker and distributed architecture. 
+I currently work lots with Kubernetes, Docker and distributed architecture. 
 
 I enjoy algorithmic problem-solving, and scalable system design.
 
