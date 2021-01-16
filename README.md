@@ -7,7 +7,7 @@ I previously worked for IBM Cloud, after graduating with a master's degree in ph
 
 ### Skills 🧰
 
-I am most experienced with JavaScript, Python and Go as languages.
+I am most experienced with Go, Python, and JavaScript.
 
 I've experience in front-end development, with React as my main framework.
 
