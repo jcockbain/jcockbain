@@ -9,13 +9,9 @@ I previously worked for IBM Cloud, after graduating with a master's degree in ph
 
 I am most experienced with Go, Python, and JavaScript.
 
-I've experience in front-end development, with React as my main framework.
-
 I currently work lots with Kubernetes, Docker and distributed architectures. 
 
 I enjoy algorithmic problem-solving, and scalable system design.
-
-
 
 <!--
 **jcockbain/jcockbain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
