@@ -7,7 +7,7 @@ I previously worked for IBM, after graduating with a master's degree in physics 
 
 ### Skills 🧰
 
-I am most experienced with Go, Python, and JavaScript.
+I am most experienced with Go and Python.
 
 I currently work lots with Kubernetes, Docker and distributed architectures. 
 
