@@ -9,7 +9,7 @@ I previously worked for IBM, after graduating with a master's degree in physics 
 
 I am most experienced with Go and Python.
 
-I currently work lots with Kubernetes, Docker and distributed architectures. 
+I currently work lots with Kubernetes and distributed systems. 
 
 <!--
 **jcockbain/jcockbain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
